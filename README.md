@@ -59,7 +59,7 @@ sudo add-apt-repository ppa:obsproject/obs-studio
 
 Command to install all the above
 ```bash
-sudo apt-get wget install curl htop stow tmux build-essential wireshark golang neovim fzf lsof kdenlive i3 gimp ccache ninja-build yarn python3-pip xclip slack dconf-editor nvidia-settings brave-browser pavucontrol clangd screenkey lua tldr audacity htop top obs-studio apt-transport-https ca-certificates curl gnupg lsb-release
+sudo apt-get install wget curl htop stow tmux build-essential wireshark golang neovim fzf lsof kdenlive i3 gimp ccache ninja-build yarn python3-pip xclip slack dconf-editor nvidia-settings brave-browser pavucontrol clangd screenkey lua tldr audacity htop top obs-studio apt-transport-https ca-certificates curl gnupg lsb-release
 ```
 
 To install Google Chrome Stable
